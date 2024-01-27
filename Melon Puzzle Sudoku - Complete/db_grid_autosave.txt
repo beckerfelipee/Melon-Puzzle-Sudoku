@@ -1,3 +1,0 @@
-Essa base de dados actualiza conforme os jogadores realizam movimentos.
-
-
