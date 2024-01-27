@@ -1,0 +1,13 @@
+O tempo do usuário é actualizado a cada movimento.
+Os tempos de processamento do jogo são descontados.
+
+user´s times:
+
+player_example's Elapsed time 
+1.177
+
+player_example_2's Elapsed time 
+4.390
+
+Felipe's Winner's time 
+83.284
